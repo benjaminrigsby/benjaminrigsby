@@ -1,5 +1,11 @@
 ### Hi there, I'm Ben 👋
 
+I go by many titles depending on the job: data scientist, model developer, sysadmin, engineer, analyst, quant, tech guy. But I love designing and building solutions, regardless of the title attached.
+
+- ⚙️ **Hobbies**: ✈️ Traveling with my wife, 🎮 PC gaming with friends, 🛠️ 3D printing, 📚 teaching, 🐕 taking walks with our dog
+- 📺 **Favorite Show**: Mad Men
+- 🌐 **Dumb website where I post occasionally**: benjaminrigsby.com
+
 <!--
 **benjaminrigsby/benjaminrigsby** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
